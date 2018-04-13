@@ -12,6 +12,36 @@
   <tr>
     <th><a href="https://www.codepile.net/pile/V5PBdNxP">index</a></th>
     <th><a href="https://drive.google.com/open?id=1CBlUrnGOTMgQaP_fZXw3kAQs-1U7iwox">實際畫面截圖</a></th>
+    <th><p>這是Lettery的首頁，中間的廣告欄除了使用者手動點擊拖移外也會自動滑動。</p></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/dGEVg5mQ">mypage</a></th>
+    <th><a href="">實際畫面截圖</a></th>
+    <th>使用者個人頁面</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/JaOzm51N">change_img</a></th>
+    <th><a href="">實際畫面截圖</a></th>
+    <th>使用者個人頁面</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/e78lvP7x">logout</a></th>
+    <th><a href="">實際畫面截圖</a></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/3DnKMj7j">login</a></th>
+    <th><a href="">實際畫面截圖</a></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/4ylB6e8x">goods_page</a></th>
+    <th><a href="">實際畫面截圖</a></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.codepile.net/pile/dpbJ9wpe">goods_browse</a></th>
+    <th><a href="">實際畫面截圖</a></th>
     <th></th>
   </tr>
   <tr>
@@ -61,31 +91,6 @@
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/o8zaeGqN">put_new_goods</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/dGEVg5mQ">mypage</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/e78lvP7x">logout</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/3DnKMj7j">login</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/4ylB6e8x">goods_page</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/dpbJ9wpe">goods_browse</a></th>
     <th><a href="">實際畫面截圖</a></th>
     <th></th>
   </tr>
