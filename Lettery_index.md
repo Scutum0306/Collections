@@ -10,7 +10,7 @@
     <th>Intro</th>
   </tr>
   <tr>
-    <th><a href="https://www.codepile.net/pile/V5PBdNxP">index</a></th>
+    <th><a href="https://www.codepile.net/pile/V5PBdNxP" target="_blank">index</a></th>
     <th><a href="https://drive.google.com/open?id=1CBlUrnGOTMgQaP_fZXw3kAQs-1U7iwox">實際畫面截圖</a></th>
     <th><p>Lettery的首頁設置，中間的廣告欄應用boostrap提供的範本修改而成。</p></th>
   </tr>
