@@ -33,17 +33,18 @@
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/dpbJ9wpe">goods_browse</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>書籍一覽頁面設置，應用了Jquery的基礎動畫模板實現塊狀排序和拖拉，以及用javascript簡易的動畫功能實現左側的彈出列。</th>
+    <th><a href="https://images.plurk.com/44g1lgQ0j8nn0f0GCaZz.jpg">實際畫面截圖</a></th>
+    <th>書籍一覽頁面設置，應用了Jquery的基礎動畫模板實現塊狀排序和拖拉，以及用javascript簡易的動畫功能實現左側的彈出列。<br></th>
   </tr>
   <tr>
-    <th><a href="https://www.codepile.net/pile/n0npoyL2">trans_autocomplete_list</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>商品搜尋字串自動完成方法的預設資料列，用Jquery預設的方法實現並用php讀取MySQL資料建構。</th>
+    <th><a href="https://www.codepile.net/pile/0ayRQQkO">create_new_point</a><br>
+      <a href="https://www.codepile.net/pile/n0npoyL2">trans_autocomplete_list</a></th>
+    <th><a href="https://images.plurk.com/iAD9PNR6XoxMtEInCaZz.jpg">實際畫面截圖</a></th>
+    <th>新的關鍵字建置方法，使用php記錄資料至MySQL實現，備有字串自動完成方法。自動完成方法的預設資料列，用Jquery預設的方法實現並用php讀取MySQL資料建構。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/4ylB6e8x">goods_page</a></th>
-    <th><a href="">實際畫面截圖</a></th>
+    <th><a href="https://images.plurk.com/3DhABrqDAOC5zohXCaZz.jpg">實際畫面截圖</a></th>
     <th>書籍資料頁面設置，用javascript簡易的動畫功能實現左側的彈出列。</th>
   </tr>
   <tr>
@@ -57,28 +58,23 @@
     <th>
       <a href="https://www.codepile.net/pile/XMBxaVWk">put_new_trans</a><br>
       <a href="https://www.codepile.net/pile/zxe0A4j5">create_new_trans</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>新筆交易建置方法，使用php記錄資料至MySQL實現。</th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/0ayRQQkO">create_new_point</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>新的關鍵字建置方法，使用php記錄資料至MySQL實現。</th>
+    <th><a href="https://images.plurk.com/7uZaMGV81SG1qUHmCaZz.jpg">實際畫面截圖</a></th>
+    <th>新筆交易建置方法，資料傳遞使用php記錄資料至MySQL實現。字串自動完成方法的預設資料列，用Jquery預設的方法實現並用php讀取MySQL資料建構。提示視窗應用javascript的範本修改而成。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/90ke1Rgb">create_new_message</a></th>
-    <th><a href="">實際畫面截圖</a></th>
+    <th><a href="https://images.plurk.com/1OJ9vs1DtvUUFl8CCaZz.jpg">實際畫面截圖</a></th>
     <th>新的訊息建置方法，使用php記錄資料至MySQL實現。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/o8zaeGqN">put_new_goods</a><br>
       <a href="https://www.codepile.net/pile/Z2MB169w">create_new_goods</a></th>
-    <th><a href="">實際畫面截圖</a></th>
+    <th><a href="https://images.plurk.com/903pe4GFsJMwOL07CaZz.jpg">實際畫面截圖</a></th>
     <th>新書籍上架建置方法，使用php記錄資料至MySQL實現。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/MDdOaVnZ">add_new_item_pic</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>添加商品的新圖片方法，使用php記錄資料至MySQL實現。</th>
+    <th><a href="https://images.plurk.com/1qQXmBdoIr43FbCBCaZz.jpg">實際畫面截圖</a></th>
+    <th>添加商品的新圖片方法，使用php記錄圖片資料至本地資料庫，再將位置儲存至MySQL實現。</th>
   </tr>
 </table>
