@@ -1,4 +1,4 @@
-# Collections
+# Collections List
 My Collections
 <table>
   <tr>
