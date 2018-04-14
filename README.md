@@ -37,8 +37,19 @@ My Collections
       <td>網頁設計</td>
       <td>CLimBing girls</td>
       <td><a href="https://images.plurk.com/1cDXl0qdk1PaGaGACaZz.jpg">實際畫面截圖</a><br>
-        <a href="Lettery_index.md">列表</a></td>
+        <a href="https://www.codepile.net/pile/QLbKRMnR">index</a><br>
+        <a href="https://www.codepile.net/pile/Vg7K3Lgw">內頁code</a></td>
       <td>由我和另外兩位同學用來放置個人作品的網站，主要使用html和css建構。</td>
-      <td>2017/12</td>
+      <td>2017/06</td>
    </tr> 
+  <tr>
+      <td>Unity遊戲設計</td>
+      <td>棒打老虎雞吃蟲</td>
+      <td><a href="https://images.plurk.com/1k8AKOJlMR9AngX7CaZz.jpg">實際畫面截圖</a><br>
+        <a href="https://www.codepile.net/pile/JY6JZGYX">GameData</a><br>
+        <a href="https://www.codepile.net/pile/ag3wVngE">ClickManager</a><br>
+        <a href="https://www.codepile.net/pile/vGvyVp96">ChangeImage</a></td>
+      <td>第一個自己從構想到素材建置出來的遊戲，目標是加上更多進階功能，例如裝備系統。<br>GameData主要控制遊戲進行和計分；ClickManager判斷使用者點擊是否正確，再傳送給GameData計分；ChangeImage用來完成所有需要改變圖片的元素的改變。</td>
+      <td>2017/06</td>
+   </tr>
 </table>
