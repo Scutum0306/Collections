@@ -12,8 +12,8 @@ My Collections
       <td>簡易踩地雷</td>
       <td>
         <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
-        <a href="https://paste.plurk.com/show/dBjelY43WmlK8lyMzjar/">程式碼_1</a>
-        <a href="https://paste.plurk.com/show/lLux8QBrGTEkvbDRUv7f/">程式碼_2</a></td>
+        <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a>
+        <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a></td>
       <td>2017/01</td>
   </tr>  
   <tr>
