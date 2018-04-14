@@ -9,16 +9,6 @@ My Collections
     <th>Date</th>
   </tr>
   <tr>
-      <td>視窗應用程式</td>
-      <td>簡易踩地雷</td>
-      <td>
-        <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
-        <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a>
-        <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a></td>
-      <td>簡易的踩地雷遊戲設計。這是我使用C#初次建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。</td>
-      <td>2017/01</td>
-  </tr>  
-  <tr>
       <td>網頁程式設計</td>
       <td>Lettery</td>
       <td><a href="Lettery_index.md">列表</a></td>
@@ -43,6 +33,16 @@ My Collections
       <td>2017/06</td>
    </tr> 
   <tr>
+      <td>視窗應用程式</td>
+      <td>簡易踩地雷</td>
+      <td>
+        <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
+        <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a>
+        <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a></td>
+      <td>簡易的踩地雷遊戲設計。這是我使用C#初次建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。</td>
+      <td>2017/01</td>
+  </tr>  
+  <tr>
       <td>Unity遊戲設計</td>
       <td>棒打老虎雞吃蟲</td>
       <td><a href="https://images.plurk.com/1k8AKOJlMR9AngX7CaZz.jpg">實際畫面截圖</a><br>
@@ -50,6 +50,6 @@ My Collections
         <a href="https://www.codepile.net/pile/ag3wVngE">ClickManager</a><br>
         <a href="https://www.codepile.net/pile/vGvyVp96">ChangeImage</a></td>
       <td>第一個自己從構想到素材建置出來的遊戲，目標是加上更多進階功能，例如裝備系統。<br>GameData主要控制遊戲進行和計分；ClickManager判斷使用者點擊是否正確，再傳送給GameData計分；ChangeImage用來完成所有需要改變圖片的元素的改變。</td>
-      <td>2017/06</td>
+      <td>2016/12</td>
    </tr>
 </table>
