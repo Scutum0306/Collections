@@ -1,2 +1,25 @@
 # Collections
 My Collections
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+      <td>視窗應用程式</td>
+      <td>簡易踩地雷</td>
+      <td>
+        <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
+        <a href="https://paste.plurk.com/show/dBjelY43WmlK8lyMzjar/">程式碼_1</a>
+        <a href="https://paste.plurk.com/show/lLux8QBrGTEkvbDRUv7f/">程式碼_2</a></td>
+      <td>2017/01</td>
+  </tr>  
+  <tr>
+      <td>網頁程式設計</td>
+      <td>Lettery</td>
+      <td><a href="Lettery_index.md">執行檔</a></td>
+      <td>2017/12</td>
+    </tr>  
+</table>
