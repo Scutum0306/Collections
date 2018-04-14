@@ -19,7 +19,7 @@ My Collections
   <tr>
       <td>網頁程式設計</td>
       <td>Lettery</td>
-      <td><a href="Lettery_index.md">執行檔</a></td>
+      <td><a href="Lettery_index.md">列表</a></td>
       <td>2017/12</td>
     </tr>  
 </table>
