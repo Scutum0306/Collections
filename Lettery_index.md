@@ -11,28 +11,25 @@
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/V5PBdNxP">index</a></th>
-    <th><a href="https://drive.google.com/open?id=1CBlUrnGOTMgQaP_fZXw3kAQs-1U7iwox">實際畫面截圖</a></th>
-    <th><p>Lettery的首頁設置，中間的廣告欄應用boostrap提供的範本修改而成。</p></th>
+    <th><a href="https://images.plurk.com/1dpsaaVE8QjmrClTCaZz.jpg">實際畫面截圖</a></th>
+    <th><p>Lettery的首頁設置，彈出式視窗用javascript提供的基礎動畫修改而成，中間的廣告欄應用boostrap提供的範本修改而成。</p></th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/dGEVg5mQ">mypage</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>使用者個人頁面設置。</th>
+    <th><a href="https://images.plurk.com/3WXtHCTsChWStl6KCaZz.jpg">實際畫面截圖</a><br>
+      <a href="https://images.plurk.com/fAkHFgCjgK6mLocFCaZz.jpg">實際畫面截圖</a></th>
+    <th>使用者個人頁面設置。用javascript簡易的動畫功能實現左側的彈出列，Table呈現資料列，再以javascript實現換頁功能。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/JaOzm51N">change_img</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>使用者更換頭像的要求由php直接修改MySQL內的資料實現。</th>
+    <th><a href="https://images.plurk.com/4uQuQFECknoBdMd8CaZz.jpg">實際畫面截圖</a></th>
+    <th>彈出式視窗用javascript提供的基礎動畫修改而成，使用者更換頭像的要求由php直接修改MySQL內的資料實現。</th>
   </tr>
   <tr>
-    <th><a href="https://www.codepile.net/pile/3DnKMj7j">login</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>使用者的登出要求由php確認登入資料一致後，使用cookie記錄資料實現。</th>
-  </tr>
-  <tr>
-    <th><a href="https://www.codepile.net/pile/e78lvP7x">logout</a></th>
-    <th><a href="">實際畫面截圖</a></th>
-    <th>使用者的登出要求由php清除cookie資料實現。</th>
+    <th><a href="https://www.codepile.net/pile/3DnKMj7j">login</a><br>
+      <a href="https://www.codepile.net/pile/e78lvP7x">logout</a></th>
+    <th><a href="https://images.plurk.com/7bxgkK9h4oLaLkOeCaZz.jpg">實際畫面截圖</a></th>
+    <th>使用者的登入要求由php確認登入資料一致後，使用cookie記錄資料實現。登出要求由php清除cookie資料實現。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/dpbJ9wpe">goods_browse</a></th>
@@ -42,7 +39,7 @@
   <tr>
     <th><a href="https://www.codepile.net/pile/n0npoyL2">trans_autocomplete_list</a></th>
     <th><a href="">實際畫面截圖</a></th>
-    <th>商品搜尋自動完成方法的預設資料列，用Jquery預設的方法實現並用php讀取MySQL資料建構。</th>
+    <th>商品搜尋字串自動完成方法的預設資料列，用Jquery預設的方法實現並用php讀取MySQL資料建構。</th>
   </tr>
   <tr>
     <th><a href="https://www.codepile.net/pile/4ylB6e8x">goods_page</a></th>
