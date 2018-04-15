@@ -41,7 +41,7 @@ Coding
         <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
         <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a>
         <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a></td>
-      <td>簡易的踩地雷遊戲設計。這是我使用C#建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。</td>
+      <td>簡易的踩地雷遊戲設計。這是我使用C#建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。<br>另外炸彈和旗子的圖像是自己畫的。</td>
       <td>2017/01</td>
   </tr>  
   <tr>
