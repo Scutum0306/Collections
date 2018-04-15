@@ -41,7 +41,7 @@ Coding
         <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
         <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a>
         <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a></td>
-      <td>簡易的踩地雷遊戲設計。這是我使用C#初次建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。</td>
+      <td>簡易的踩地雷遊戲設計。這是我使用C#建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。</td>
       <td>2017/01</td>
   </tr>  
   <tr>
@@ -51,7 +51,7 @@ Coding
         <a href="https://www.codepile.net/pile/JY6JZGYX">GameData</a><br>
         <a href="https://www.codepile.net/pile/ag3wVngE">ClickManager</a><br>
         <a href="https://www.codepile.net/pile/vGvyVp96">ChangeImage</a></td>
-      <td>第一個自己從構想到素材建置出來的遊戲，目標是加上更多進階功能，例如裝備系統。<br>GameData主要控制遊戲進行和計分；ClickManager判斷使用者點擊是否正確，再傳送給GameData計分；ChangeImage用來完成所有需要改變圖片的元素的改變。</td>
+      <td>第一個自己從構想到素材建置出來的遊戲，現在目標是加上更多進階功能，例如裝備系統等。<br>GameData主要控制遊戲進行和計分；ClickManager判斷使用者點擊是否正確，再傳送給GameData計分；ChangeImage用來完成所有需要改變圖片的元素的改變。</td>
       <td>2016/12</td>
    </tr>
 </table>
@@ -83,5 +83,32 @@ Other
       <td><a href="https://drive.google.com/open?id=1m_zhFD0j7RfMW8_vtpuHdJxcIGZWfykX">略覽</a><br></td>
       <td>這項工作內容是多人合作的平面設計，前前後後總共設計了將近一百個角色，對我來說是相當少有的經歷。</td>
       <td>2017/10</td>
+   </tr>
+  <tr>
+      <td>遊戲企劃提案</td>
+      <td>Way To Home</td>
+      <td><a href="https://drive.google.com/open?id=1cnOHtnuPHxycO9hDGDx6PJ6CzUrUKUcS">企劃提案書.pdf</a><br></td>
+      <td>這是一款以長期經營為目標設計的橫向式RPG遊戲的企劃提案書，在多人合作下構想出一款完整的遊戲提案是少有的經歷。<br>這個遊戲案融合了圖像辨識等技術、大量的劇情文本和角色設定、互動的要素，在我自身的能力更上一層後希望可以將其實做出來。</td>
+      <td>2016/11</td>
+   </tr>
+  <tr>
+      <td>starbank星岸祭－－plurk企劃非官方同歡活動</td>
+      <td>活動獎品設計</td>
+      <td><a href="https://drive.google.com/open?id=1HbEmGdn9nzW30fp7FKljZ8n8NX4N22_s">iphoneW</a>
+          <a href="https://drive.google.com/open?id=19XXXZ1TdtfwkUiPEc2nP68SnAyOqhew3">鱷魚包</a><br>
+          <a href="https://drive.google.com/open?id=1c1em65Xgs1csXJEJi5x4yaVHRAjoK8mb">美人魚</a>
+          <a href="https://drive.google.com/open?id=1RZH2K1RgIqEg9_eG-pfefVZV8ntYDx1s">面紙</a></td>
+      <td>星岸祭是在一個名為plurk的社交平台上的企劃內，由10幾個人主動舉辦的線上同歡活動。<br>雖然高中時也有和其他15校的社團社長聯合舉辦社團交流活動的經歷，可是和完全不認識的、除了參加了同一個企劃外沒有其他交集的多數人，面對廣大的受眾舉辦活動的經歷真的非常新奇。<br>即使已過了三年，只要回想起那段時間，興奮和充足感就會再次湧起，就像只是昨天發生的事一樣。<br>在那次活動中，不管是多人協作一個企劃的連動、工作人員間還是對外的溝通，在各個方面我都受益良多。</td>
+      <td>2015/08</td>
+   </tr>
+  <tr>
+      <td>繪圖練習</td>
+      <td>獎品設計</td>
+      <td><a href="https://drive.google.com/open?id=1HbEmGdn9nzW30fp7FKljZ8n8NX4N22_s">iphoneW</a>
+          <a href="https://drive.google.com/open?id=19XXXZ1TdtfwkUiPEc2nP68SnAyOqhew3">鱷魚包</a><br>
+          <a href="https://drive.google.com/open?id=1c1em65Xgs1csXJEJi5x4yaVHRAjoK8mb">美人魚</a>
+          <a href="https://drive.google.com/open?id=1RZH2K1RgIqEg9_eG-pfefVZV8ntYDx1s">面紙</a></td>
+      <td>星岸祭是在一個名為plurk的社交平台上的企劃內，由10幾個人主動舉辦的線上同歡活動。<br>雖然高中時也有和其他15校的社團社長聯合舉辦社團交流活動的經歷，可是和完全不認識的、除了參加了同一個企劃外沒有其他交集的多數人，面對廣大的受眾舉辦活動的經歷真的非常新奇。<br>即使已過了三年，只要回想起那段時間，興奮和充足感就會再次湧起，就像只是昨天發生的事一樣。<br>在那次活動中，不管是多人協作一個企劃的連動、工作人員間還是對外的溝通，在各個方面我都受益良多。</td>
+      <td>2015/08</td>
    </tr>
 </table>
