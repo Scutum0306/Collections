@@ -74,7 +74,7 @@ Other
           <a href="https://drive.google.com/open?id=10gW6Hw3xrGmxIVfZVM-w5T2e7O6R6Qhc">LTML_2_反面</a><br>
           <a href="https://drive.google.com/open?id=1v_0pgE52k_CsLfb6SvXAeOJhRIHDq1nJ">LTML_3_正面</a><br>
           <a href="https://drive.google.com/open?id=1AoJ-vmC0-wffUM-1QlrLe4-fKDq4IdqO">LTML_3_反面</a><br></td>
-      <td></td>
-      <td>2016/12</td>
+      <td>用簡單的三張圖呈現出本應各自在地球兩端的北極熊和企鵝在垃圾簇擁下相遇，然後一起踏上旅程的簡短故事，希望讓觀者感受到垃圾對自然的危害之深。</td>
+      <td>2016/11</td>
    </tr>
 </table>
