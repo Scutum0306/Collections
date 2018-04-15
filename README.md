@@ -77,4 +77,11 @@ Other
       <td>用簡單的三張圖呈現出本應各自在地球兩端的北極熊和企鵝在垃圾簇擁下相遇，然後一起踏上旅程的簡短故事，希望讓觀者感受到垃圾對自然的危害之深。</td>
       <td>2016/11</td>
    </tr>
+  <tr>
+      <td>臺灣師範大學產學合作計畫</td>
+      <td>歷史人物設計</td>
+      <td><a href="https://drive.google.com/open?id=1m_zhFD0j7RfMW8_vtpuHdJxcIGZWfykX">略覽</a><br></td>
+      <td>這項工作內容是多人合作的平面設計，前前後後總共設計了將近一百個角色，對我來說是相當少有的經歷。</td>
+      <td>2017/10</td>
+   </tr>
 </table>
