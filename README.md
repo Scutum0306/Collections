@@ -68,11 +68,11 @@ Other
   <tr>
       <td>明信片設計</td>
       <td>Less Trash More Life</td>
-      <td><a href="https://drive.google.com/open?id=1lMMbO-yBPcVhQbkwdk4kubBgIPCJwgg6">LTML_1_正面</a><br>
+      <td><a href="https://drive.google.com/open?id=1lMMbO-yBPcVhQbkwdk4kubBgIPCJwgg6">LTML_1_正面</a>
           <a href="https://drive.google.com/open?id=1fZdYyhpIWEx38UUkZFppyptfVg83_NCC">LTML_1_反面</a><br>
-          <a href="https://drive.google.com/open?id=1hroH5rOeskvnI2EfZBGv2xmw4f0d4sQP">LTML_2_正面</a><br>
+          <a href="https://drive.google.com/open?id=1hroH5rOeskvnI2EfZBGv2xmw4f0d4sQP">LTML_2_正面</a>
           <a href="https://drive.google.com/open?id=10gW6Hw3xrGmxIVfZVM-w5T2e7O6R6Qhc">LTML_2_反面</a><br>
-          <a href="https://drive.google.com/open?id=1v_0pgE52k_CsLfb6SvXAeOJhRIHDq1nJ">LTML_3_正面</a><br>
+          <a href="https://drive.google.com/open?id=1v_0pgE52k_CsLfb6SvXAeOJhRIHDq1nJ">LTML_3_正面</a>
           <a href="https://drive.google.com/open?id=1AoJ-vmC0-wffUM-1QlrLe4-fKDq4IdqO">LTML_3_反面</a><br></td>
       <td>用簡單的三張圖呈現出本應各自在地球兩端的北極熊和企鵝在垃圾簇擁下相遇，然後一起踏上旅程的簡短故事，希望讓觀者感受到垃圾對自然的危害之深。</td>
       <td>2016/11</td>
