@@ -94,9 +94,9 @@ Other
   <tr>
       <td>starbank星岸祭－－plurk企劃非官方同歡活動</td>
       <td>活動獎品設計</td>
-      <td><a href="https://drive.google.com/open?id=1HbEmGdn9nzW30fp7FKljZ8n8NX4N22_s">iphoneW</a>
+      <td><a href="https://drive.google.com/open?id=1HbEmGdn9nzW30fp7FKljZ8n8NX4N22_s">iphoneW</a><br>
           <a href="https://drive.google.com/open?id=19XXXZ1TdtfwkUiPEc2nP68SnAyOqhew3">鱷魚包</a><br>
-          <a href="https://drive.google.com/open?id=1c1em65Xgs1csXJEJi5x4yaVHRAjoK8mb">美人魚</a>
+          <a href="https://drive.google.com/open?id=1c1em65Xgs1csXJEJi5x4yaVHRAjoK8mb">美人魚</a><br>
           <a href="https://drive.google.com/open?id=1RZH2K1RgIqEg9_eG-pfefVZV8ntYDx1s">面紙</a></td>
       <td>星岸祭是在一個名為plurk的社交平台上的企劃內，由10幾個人主動舉辦的線上同歡活動。<br>雖然高中時也有和其他15校的社團社長聯合舉辦社團交流活動的經歷，可是和完全不認識的、除了參加了同一個企劃外沒有其他交集的多數人，面對廣大的受眾舉辦活動的經歷真的非常新奇。<br>即使已過了三年，只要回想起那段時間，興奮和充足感就會再次湧起，就像只是昨天發生的事一樣。<br>在那次活動中，不管是多人協作一個企劃的連動、工作人員間還是對外的溝通，在各個方面我都受益良多。</td>
       <td>2015/08</td>
@@ -104,11 +104,10 @@ Other
   <tr>
       <td>繪圖練習</td>
       <td>獎品設計</td>
-      <td><a href="https://drive.google.com/open?id=1HbEmGdn9nzW30fp7FKljZ8n8NX4N22_s">iphoneW</a>
-          <a href="https://drive.google.com/open?id=19XXXZ1TdtfwkUiPEc2nP68SnAyOqhew3">鱷魚包</a><br>
-          <a href="https://drive.google.com/open?id=1c1em65Xgs1csXJEJi5x4yaVHRAjoK8mb">美人魚</a>
-          <a href="https://drive.google.com/open?id=1RZH2K1RgIqEg9_eG-pfefVZV8ntYDx1s">面紙</a></td>
-      <td>星岸祭是在一個名為plurk的社交平台上的企劃內，由10幾個人主動舉辦的線上同歡活動。<br>雖然高中時也有和其他15校的社團社長聯合舉辦社團交流活動的經歷，可是和完全不認識的、除了參加了同一個企劃外沒有其他交集的多數人，面對廣大的受眾舉辦活動的經歷真的非常新奇。<br>即使已過了三年，只要回想起那段時間，興奮和充足感就會再次湧起，就像只是昨天發生的事一樣。<br>在那次活動中，不管是多人協作一個企劃的連動、工作人員間還是對外的溝通，在各個方面我都受益良多。</td>
-      <td>2015/08</td>
+      <td><a href="https://drive.google.com/open?id=1K4yhyCbE_Lz-rUCwlaLoLtZ_BFN7wtQa">東方系列角色練習</a><br>
+          <a href="https://drive.google.com/open?id=1bRjmn_nZ0CHux7MPRcQpyWK0HN4-fn4n">多元素融合練習</a><br>
+          <a href="https://drive.google.com/open?id=1HY1lPLvRK-DcOiL6HRu-2VGTkvvL3k5E">透視練習</a></td>
+      <td>在暑期間，我會和認識的同學們每週約一天到學校的研討室一起練習繪圖。我們每週會用不同的互相出題給其他人作為下一週的練習題目，這幾張是當時的練習內容節錄。</td>
+      <td>2016、2017暑期</td>
    </tr>
 </table>
