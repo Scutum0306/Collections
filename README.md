@@ -1,5 +1,4 @@
-# Collections List
-My Collections
+# My Collections List
 
 Coding
 <table>
