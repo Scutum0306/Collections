@@ -21,8 +21,7 @@ Coding
       <td>網頁遊戲設計</td>
       <td>FGC (Fate/Grand Card)</td>
       <td><p>
-        <a href="https://images.plurk.com/5YGc4Tc5N1RjeHBSCaZz.jpg">實際畫面截圖</a><br>
-        <a href="https://www.codepile.net/pile/YMbkpLQ7">Code</a>
+        <a href="https://images.plurk.com/5YGc4Tc5N1RjeHBSCaZz.jpg">實際畫面截圖</a><br><a href="https://www.codepile.net/pile/YMbkpLQ7">Code</a>
         </p></td>
       <td>使用知名手機遊戲fate/grand order在愚人節活動時由繪師リヨ繪製的Q版卡片圖案和遊戲正體的卡背製作出的練習性質翻牌遊戲，主要使用html和css建構。</td>
       <td>2017/06</td>
@@ -31,7 +30,7 @@ Coding
       <td>網頁設計</td>
       <td>CLimBing girls</td>
       <td><p>
-        <a href="https://images.plurk.com/1cDXl0qdk1PaGaGACaZz.jpg">實際畫面截圖</a><br>
+        <a href="https://images.plurk.com/1cDXl0qdk1PaGaGACaZz.jpg">實際畫面截圖</a><br>
         <a href="https://www.codepile.net/pile/QLbKRMnR">index</a><br>
         <a href="https://www.codepile.net/pile/Vg7K3Lgw">內頁code</a>
         </p></td>
@@ -43,8 +42,8 @@ Coding
       <td>簡易踩地雷</td>
       <td><p>
         <a href="https://drive.google.com/open?id=1GS_XwNFrr4r2xz6tEZzPCZ2XuSG3vk1z">執行檔</a><br>
-        <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a><br>
-        <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a>
+        <a href="https://www.codepile.net/pile/y28jBkOn">視窗code</a><br>
+        <a href="https://www.codepile.net/pile/PyzlG2E7">遊戲視窗code</a>
         </p></td>
       <td>簡易的踩地雷遊戲設計。這是我使用C#建置出的第一個遊戲，在計算炸彈數量和顯示區塊上應用了flood fill演算法。<br>另外炸彈和旗子的圖像是自己畫的。</td>
       <td>2017/01</td>
