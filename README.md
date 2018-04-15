@@ -68,11 +68,13 @@ Other
   <tr>
       <td>明信片設計</td>
       <td>Less Trash More Life</td>
-      <td><a href="https://images.plurk.com/1k8AKOJlMR9AngX7CaZz.jpg">實際畫面截圖</a><br>
-        <a href="https://www.codepile.net/pile/JY6JZGYX">GameData</a><br>
-        <a href="https://www.codepile.net/pile/ag3wVngE">ClickManager</a><br>
-        <a href="https://www.codepile.net/pile/vGvyVp96">ChangeImage</a></td>
-      <td>第一個自己從構想到素材建置出來的遊戲，目標是加上更多進階功能，例如裝備系統。<br>GameData主要控制遊戲進行和計分；ClickManager判斷使用者點擊是否正確，再傳送給GameData計分；ChangeImage用來完成所有需要改變圖片的元素的改變。</td>
+      <td><a href="https://drive.google.com/open?id=1lMMbO-yBPcVhQbkwdk4kubBgIPCJwgg6">LTML_1_正面</a><br>
+          <a href="https://drive.google.com/open?id=1fZdYyhpIWEx38UUkZFppyptfVg83_NCC">LTML_1_反面</a><br>
+          <a href="https://drive.google.com/open?id=1hroH5rOeskvnI2EfZBGv2xmw4f0d4sQP">LTML_2_正面</a><br>
+          <a href="https://drive.google.com/open?id=10gW6Hw3xrGmxIVfZVM-w5T2e7O6R6Qhc">LTML_2_反面</a><br>
+          <a href="https://drive.google.com/open?id=1v_0pgE52k_CsLfb6SvXAeOJhRIHDq1nJ">LTML_3_正面</a><br>
+          <a href="https://drive.google.com/open?id=1AoJ-vmC0-wffUM-1QlrLe4-fKDq4IdqO">LTML_3_反面</a><br></td>
+      <td></td>
       <td>2016/12</td>
    </tr>
 </table>
