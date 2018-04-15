@@ -71,6 +71,13 @@ Other
     <th>Date</th>
   </tr>
   <tr>
+      <td>臺灣師範大學產學合作計畫</td>
+      <td>歷史人物設計</td>
+      <td><a href="https://drive.google.com/open?id=1m_zhFD0j7RfMW8_vtpuHdJxcIGZWfykX">略覽</a><br></td>
+      <td>這項工作內容是多人合作的平面設計，前前後後總共設計了將近一百個角色，對我來說是相當少有的經歷。</td>
+      <td>2017/10</td>
+   </tr>
+  <tr>
       <td>明信片設計</td>
       <td>Less Trash More Life</td>
       <td><p>
@@ -85,18 +92,15 @@ Other
       <td>2016/11</td>
    </tr>
   <tr>
-      <td>臺灣師範大學產學合作計畫</td>
-      <td>歷史人物設計</td>
-      <td><a href="https://drive.google.com/open?id=1m_zhFD0j7RfMW8_vtpuHdJxcIGZWfykX">略覽</a><br></td>
-      <td>這項工作內容是多人合作的平面設計，前前後後總共設計了將近一百個角色，對我來說是相當少有的經歷。</td>
-      <td>2017/10</td>
-   </tr>
-  <tr>
-      <td>遊戲企劃提案</td>
-      <td>Way To Home</td>
-      <td><a href="https://drive.google.com/open?id=1cnOHtnuPHxycO9hDGDx6PJ6CzUrUKUcS">企劃提案書.pdf</a><br></td>
-      <td>這是一款以長期經營為目標設計的橫向式RPG遊戲的企劃提案書，在多人合作下構想出一款完整的遊戲提案是少有的經歷。<br>這個遊戲案融合了圖像辨識等技術、大量的劇情文本和角色設定、互動的要素，在我自身的能力更上一層後希望可以將其實做出來。</td>
-      <td>2016/11</td>
+      <td>繪圖練習</td>
+      <td>獎品設計</td>
+      <td><p>
+        <a href="https://drive.google.com/open?id=1K4yhyCbE_Lz-rUCwlaLoLtZ_BFN7wtQa">東方系列角色練習</a><br>
+        <a href="https://drive.google.com/open?id=1bRjmn_nZ0CHux7MPRcQpyWK0HN4-fn4n">多元素融合練習</a><br>
+        <a href="https://drive.google.com/open?id=1HY1lPLvRK-DcOiL6HRu-2VGTkvvL3k5E">透視練習</a>
+        </p></td>
+      <td>在暑期間，我會和認識的同學們每週約一天到學校的研討室一起練習繪圖。我們每週會用不同的互相出題給其他人作為下一週的練習題目，這幾張是當時的練習內容節錄。</td>
+      <td>2016、2017暑期</td>
    </tr>
   <tr>
       <td>starbank星岸祭－－plurk企劃非官方同歡活動</td>
@@ -111,14 +115,10 @@ Other
       <td>2015/08</td>
    </tr>
   <tr>
-      <td>繪圖練習</td>
-      <td>獎品設計</td>
-      <td><p>
-        <a href="https://drive.google.com/open?id=1K4yhyCbE_Lz-rUCwlaLoLtZ_BFN7wtQa">東方系列角色練習</a><br>
-        <a href="https://drive.google.com/open?id=1bRjmn_nZ0CHux7MPRcQpyWK0HN4-fn4n">多元素融合練習</a><br>
-        <a href="https://drive.google.com/open?id=1HY1lPLvRK-DcOiL6HRu-2VGTkvvL3k5E">透視練習</a>
-        </p></td>
-      <td>在暑期間，我會和認識的同學們每週約一天到學校的研討室一起練習繪圖。我們每週會用不同的互相出題給其他人作為下一週的練習題目，這幾張是當時的練習內容節錄。</td>
-      <td>2016、2017暑期</td>
+      <td>遊戲企劃提案</td>
+      <td>Way To Home</td>
+      <td><a href="https://drive.google.com/open?id=1cnOHtnuPHxycO9hDGDx6PJ6CzUrUKUcS">企劃提案書.pdf</a><br></td>
+      <td>這是一款以長期經營為目標設計的橫向式RPG遊戲的企劃提案書，在多人合作下構想出一款完整的遊戲提案是少有的經歷。<br>這個遊戲案融合了圖像辨識等技術、大量的劇情文本和角色設定、互動的要素，在我自身的能力更上一層後希望可以將其實做出來。</td>
+      <td>2016/11</td>
    </tr>
 </table>
