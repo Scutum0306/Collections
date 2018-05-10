@@ -93,7 +93,7 @@ Other
    </tr>
   <tr>
       <td>繪圖練習</td>
-      <td>獎品設計</td>
+      <td>練習</td>
       <td><p>
         <a href="https://drive.google.com/open?id=1K4yhyCbE_Lz-rUCwlaLoLtZ_BFN7wtQa">東方系列角色練習</a><br>
         <a href="https://drive.google.com/open?id=1bRjmn_nZ0CHux7MPRcQpyWK0HN4-fn4n">多元素融合練習</a><br>
